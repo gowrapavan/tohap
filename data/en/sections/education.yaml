@@ -1,0 +1,99 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: BTech (Bachelor of Technology)
+  icon: fa-graduation-cap
+  timeframe: 2021-2025
+  institution:
+    name: Kallam Haranadhareddy Institute of Technology
+    url: "#"
+    logo: /images/khit.png # Path of the logo image
+    darkLogo: /images/education/college-dark.png #(optional), Can optionally show a different logo for dark theme
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.2
+    outOf: 10
+  publications: #(optional)
+  - title: JVD Scholarship Awarded for EAMCET Qualification.
+    url: "#"
+  - title: to be modified.
+    url: "#"
+  - title: to be modified.
+    url: "#"
+  extracurricularActivities: #(optional), supports markdown
+  - Proficient in Python and C programming languages, with a focus on advanced data structures and algorithms.
+  - Competent in web development, specializing in front-end technologies like HTML, CSS, and JavaScript, with experience in building dynamic web applications.
+  custonSections: #(optional)
+    - name: Thesis
+      content: to be modified.
+    - name: Supervisor
+      content: to be modified.
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: true
+    collapseAfter: 3
+    courses:
+    - name: Data Structures and Algorithm
+      achieved: 3.75
+      outOf: 4
+    - name: Network Security
+      achieved: 3.80
+      outOf: 4
+    - name: Operating System
+      achieved: 3.5
+      outOf: 4
+    - name: Artificial Intelligent
+      achieved: 3.75
+      outOf: 4
+- name: Intermediate
+  icon: fa-university
+  timeframe: 2019-2021
+  institution:
+    name: Narayana Junior College
+    url: "#"
+    logo: /images/narayana-logo.png # Path of the logo image
+    darkLogo: /images/.png #(optional), Can optionally show a different logo for dark theme
+  grade: #(optional)
+    scale: CGPA
+    achieved: 7.4
+    outOf: 10
+  extracurricularActivities: #(optional), supports markdown
+  - Participation in math clubs or competitions to further enhance mathematical understanding and passion.
+  - Actively improving proficiency in English and Sanskrit languages, utilizing resources such as language learning software and literature analysis to enhance linguistic skills.
+  - Engaging in independent study and experimentation in physics and chemistry, exploring concepts beyond the curriculum to deepen understanding and foster scientific curiosity.
+  custonSections: #(optional)
+    - name: Thesis
+      content: to be modified.
+    - name: Supervisor
+      content: to be modified.
+- name: Central Board of Secondary Education
+  icon: fa-school
+  timeframe: 2013-2019
+  institution:
+    name: Dr. Kondabolu Lakshmi Prasad Public School, Guntur
+    url: "posts/category/school/"
+    logo: /images/klp-l.jpg # Path of the logo image
+    darkLogo: /images/.png #(optional), Can optionally show a different logo for dark theme
+  grade: #(optional)
+    scale: CGPA
+    achieved: 2.8
+    outOf: 5
+  extracurricularActivities: #(optional), supports markdown
+  - Participation in math clubs or competitions to further enhance mathematical understanding and passion.
+  - Actively improving proficiency in English and Sanskrit languages, utilizing resources such as language learning software and literature analysis to enhance linguistic skills.
+  - Engaging in independent study and experimentation in physics and chemistry, exploring concepts beyond the curriculum to deepen understanding and foster scientific curiosity.
+  custonSections: #(optional)
+    - name: Thesis
+      content: to be modified.
+    - name: Supervisor
+      content: to be modified.
+  
