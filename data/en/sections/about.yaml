@@ -1,0 +1,91 @@
+#section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Software Engineer Student 
+# your company information
+company:
+  name: KHIT.
+  url: "https://khitguntur.ac.in/"
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: |
+  I’m passionate about tech and love diving into programming languages like C and Python. I’m also into web development, playing around with HTML, CSS, and JavaScript to build cool stuff online.
+
+  Through my blog, I want to share what I’ve learned and help others explore the exciting world of technology. From coding tips to discussions on the latest tech trends, my goal is to make tech easier to understand and more accessible for everyone.
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "218x1a1227@khitguntur.ac.in"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/gowrapavan"
+
+- name: Stackoverflow
+  icon: "fab fa-stack-overflow"
+  url: "#"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "www.linkedin.com/in/gowra-pavan-kumar-154250302"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://x.com/pavangowra1504"
+
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "#"
+
+# Show your badges
+# You can show your verifiable certificates from https://www.credly.com.
+# You can also show a circular bar indicating the level of expertise on a certain skill
+badges:
+- type: certification
+  name: Certified Kubernetes Security Specialist
+  url: "https://www.credly.com/badges/10e7ab1b-3b24-48ea-a360-e8625efbba5d/public_url"
+  badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
+
+- type: certification
+  name: Istio and IBM Cloud Kubernetes Service
+  url: "https://www.credly.com/org/the-linux-foundation/badge/exam-developer-certified-kubernetes-security-specialist"
+  badge: "images/ess.png"
+
+- type: certification
+  name: Artificial Intelligence and Machine Learning
+  url: "https://www.credly.com/org/grupo-bancolombia/badge/artificial-intelligence-and-machine-learning"
+  badge: "https://images.credly.com/size/680x680/images/e027514f-9d07-4b29-862f-fe21a8aaebf1/ae.png"
+
+- type: soft-skill-indicator
+  name: Leadership
+  percentage: 85
+  color: blue
+
+- type: soft-skill-indicator
+  name: Team Work
+  percentage: 90
+  color: yellow
+
+- type: soft-skill-indicator
+  name: Hard Working
+  percentage: 85
+  color: orange
+
+# you can also provide color code instead of the color name
+# - type: soft-skill-indicator
+#   name: Example 1
+#   percentage: 75
+#   color: "#00adb5"
