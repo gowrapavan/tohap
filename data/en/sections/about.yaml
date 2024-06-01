@@ -48,7 +48,11 @@ socialLinks:
 
 - name: Facebook
   icon: "fab fa-facebook"
+<<<<<<< HEAD
   url: "#"
+=======
+  url: "fa"
+>>>>>>> origin/main
 
 # Show your badges
 # You can show your verifiable certificates from https://www.credly.com.

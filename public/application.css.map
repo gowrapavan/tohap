@@ -1,7 +1,11 @@
 {
 	"version": 3,
 	"file": "application.css",
+<<<<<<< HEAD
 	"sourceRoot": "D:/tag/new",
+=======
+	"sourceRoot": "C:/new",
+>>>>>>> origin/main
 	"sources": [
 		"C:/Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/application.template.scss",
 		"node_modules/bootstrap/scss/bootstrap.scss",
@@ -98,6 +102,7 @@
 		"node_modules/@fontsource/mulish/500.css",
 		"node_modules/@fontsource/mulish/600.css",
 		"node_modules/@fontsource/mulish/700.css",
+<<<<<<< HEAD
 		"C:/Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/variables.scss",
 		"C:/Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/mixins.scss",
 		"C:/Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/cards.scss",
@@ -126,6 +131,36 @@
 		"C:/Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/publications.scss",
 		"C:/Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/footer.scss",
 		"C:/Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/override.scss"
+=======
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/variables.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/mixins.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/cards.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/buttons.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/links.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/texts.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/images.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/tables.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/components/misc.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/layouts/main.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/layouts/list.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/layouts/single.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/layouts/notes.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/layouts/404.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/navigators/navbar.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/navigators/sidebar.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/home.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/about.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/skills.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/experiences.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/education.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/projects.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/recent-posts.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/achievements.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/accomplishments.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/publications.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/sections/footer.scss",
+		"../Users/Administrator/AppData/Local/hugo_cache/modules/filecache/modules/pkg/mod/github.com/hugo-toha/toha/v4@v4.5.0/assets/styles/override.scss"
+>>>>>>> origin/main
 	],
 	"sourcesContent": [
 		"// loading bootstrap\n// TODO: Refactor to use bootstrap sass variable for theming.\n@import 'bootstrap/scss/bootstrap';\n\n@import 'include-media/dist/_include-media';\n\n// The Mulish font, we use font-weight 300 - 700\n@import '@fontsource/mulish/300';\n@import '@fontsource/mulish/index'; // 400\n@import '@fontsource/mulish/500';\n@import '@fontsource/mulish/600';\n@import '@fontsource/mulish/700';\n\n@import './variables';\n@import './mixins';\n\n// components\n@import './components/cards';\n@import './components/buttons';\n@import './components/links';\n@import './components/texts';\n@import './components/images';\n@import './components/tables';\n@import './components/misc';\n\n// layouts\n@import './layouts/main';\n@import './layouts/list';\n@import './layouts/single';\n@import './layouts/notes';\n@import './layouts/404';\n\n// navigators\n@import './navigators/navbar';\n@import './navigators/sidebar';\n\n\n// sections\n@import './sections/home';\n@import './sections/about';\n@import './sections/skills';\n@import './sections/experiences';\n@import './sections/education';\n@import './sections/projects';\n@import './sections/recent-posts';\n@import './sections/achievements';\n@import './sections/accomplishments';\n@import './sections/publications';\n@import './sections/footer';\n\n\n\n// override\n@import './override';\n\n// features and services, only imported if enabled.\n\n  \n    \n    \n      \n\n      \n    \n  \n\n  \n    \n    \n      \n\n      \n        \n      \n    \n  \n\n  \n    \n    \n      \n\n      \n    \n  \n\n  \n    \n    \n      \n\n      \n    \n  \n\n",
